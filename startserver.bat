@@ -1,7 +1,7 @@
 @echo off
 set MAX_RAM=5G
 set MIN_RAM=5G
-set FORGE_VERSION=36.2.34
+set FORGE_VERSION=36.2.35
 :: To use a specific Java runtime, set an environment variable named ATM6_JAVA to the full path of java.exe.
 
 if not defined ATM6_JAVA (

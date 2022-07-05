@@ -1,7 +1,7 @@
 #!/bin/sh
 MAX_RAM=5G
 MIN_RAM=5G
-FORGE_VERSION=36.2.34
+FORGE_VERSION=36.2.35
 # To use a specific Java runtime, set an environment variable named ATM6_JAVA to the full path of java.exe.
 
 while true
